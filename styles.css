@@ -12,7 +12,7 @@ body {
 }
 
 .background {
-    position: absolute;
+    position: fixed;
     padding: 20px;
     min-height: 100vh;
     min-width: 100vw;
