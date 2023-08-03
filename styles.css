@@ -64,10 +64,6 @@ body {
     margin-bottom: 15px;
 }
 
-#illusion {
-    z-index: 2;
-}
-
 #home {
     background-color: rgba(0, 0, 0, 0.5);
     color: #ffffff;
