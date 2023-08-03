@@ -35,6 +35,10 @@ body {
   z-index: 2;
 }
 
+li.elements {
+    text-align: left;
+}
+
 .button {
   display: block;
   background-color: #ffffff;
