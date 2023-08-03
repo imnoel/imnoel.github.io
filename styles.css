@@ -35,8 +35,8 @@ body {
   z-index: 2;
 }
 
-li.elements {
-    text-align: left;
+.below {
+    margin-bottom: 10px;
 }
 
 .button {
