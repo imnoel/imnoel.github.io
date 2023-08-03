@@ -23,25 +23,13 @@ body {
     background-position: center;
 }
 
-.everything {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-.introduction {
+.elements {
   text-align: center;
   padding: 20px;
-  background-color: rgba(0, 0, 0, 0.5);
-  border-radius: 10px;
-  z-index: 2;
-  margin-bottom: 20px;
-}
-
-.pc {
-  text-align: center;
-  padding: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   background-color: rgba(0, 0, 0, 0.5);
   border-radius: 10px;
   z-index: 2;
