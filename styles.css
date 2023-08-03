@@ -59,3 +59,12 @@ body {
 #pc {
     margin-bottom: 15px;
 }
+
+#home {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 2;
+}
