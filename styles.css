@@ -18,33 +18,33 @@ body {
 }
 
 .elements {
-  text-align: center;
-  padding: 20px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  background-color: rgba(0, 0, 0, 0.5);
-  border-radius: 10px;
-  z-index: 2;
-  max-height: 62.5vh;
-  overflow: auto;
+    text-align: center;
+    padding: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    z-index: 2;
+    max-height: 62.5vh;
+    overflow: auto;
 }
 
 .button {
-  display: block;
-  background-color: white;
-  color: black;
-  padding: 10px 15px;
-  text-decoration: none;
-  border-radius: 5px;
-  z-index: 3;
-  text-align: center;
+    display: block;
+    background-color: white;
+    color: black;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    z-index: 3;
+    text-align: center;
 }
 
 .button:hover {
-  color: black;
-  text-decoration: underline;
+    color: black;
+    text-decoration: underline;
 }
 
 #home {
@@ -61,8 +61,8 @@ li {
 }
 
 img {
-  border-radius: 10px;
-  z-index: 3;
+    border-radius: 10px;
+    z-index: 3;
 }
 
 .pc {
