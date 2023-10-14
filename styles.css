@@ -47,6 +47,10 @@ body {
     text-decoration: underline;
 }
 
+.pc {
+    margin-bottom: 15px;
+}
+
 #home {
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
@@ -63,10 +67,6 @@ li {
 img {
     border-radius: 10px;
     z-index: 3;
-}
-
-.pc {
-    margin-bottom: 15px;
 }
 
 a {
