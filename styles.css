@@ -1,8 +1,8 @@
-body, html {
+body {
     height: 100%;
     margin: 0;
     color: white;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Inclusive Sans', sans-serif;
     background-color: #2a2a2a;
 }
 
@@ -31,10 +31,6 @@ body, html {
   overflow: auto;
 }
 
-.below {
-    margin-bottom: 10px;
-}
-
 .button {
   display: block;
   background-color: white;
@@ -51,15 +47,6 @@ body, html {
   text-decoration: underline;
 }
 
-.image {
-  border-radius: 10px;
-  z-index: 3;
-}
-
-#pc {
-    margin-bottom: 15px;
-}
-
 #home {
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
@@ -67,6 +54,19 @@ body, html {
     top: 20px;
     left: 20px;
     z-index: 2;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+img {
+  border-radius: 10px;
+  z-index: 3;
+}
+
+.pc {
+    margin-bottom: 15px;
 }
 
 a {
